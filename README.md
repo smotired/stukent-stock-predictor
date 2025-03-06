@@ -2,7 +2,7 @@
 
 version 1.2.1
 
-**NOTE:** (1/10/24) This project has been shut down for about two years now. Many people have been reaching out to me asking how to set this up or how to get the data. I'm sorry, but I don't have the time to respond to everyone. I can't explain how to set the project up for yourself, or how I got the data. But I'm happy to answer questions about the code itself!
+**NOTE:** (1/10/24) This project has been shut down for about two years now. Many people have been reaching out to me asking how to set this up or how to get the data. I'm sorry, but I don't have the time to respond to everyone. I can't explain how to set the project up for yourself, or how I got the data.
 
 ## What is this?
 
@@ -63,7 +63,3 @@ Some of them were quite obvious, like Swoosh Athletics = Nike and Corner Drug St
 ## Important Notes
 
 This will not work for every iteration of the Stukent Stock Predictor. You can still see which companies are which, but your simulation likely starts on a different date.
-
-## Contact
-
-If you have any questions or suggestions, you can contact me at <soshjam@soshjam.com>. **PLEASE NOTE that I will not help you set this up for yourself or explain how I got the data.**
